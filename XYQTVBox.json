@@ -198,7 +198,15 @@
         {"name":"-费-","type":0,"url":"https://jx.yparse.com/index.php?url="},
         {"name":"-分-","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
         {"name":"-享-","type":0,"url":"https://jx.aidouer.net/?url="},
-        {"name":"-🌷-","type":0,"url":"https://jx.quankan.app/?url="}
+        {"name":"-🌷-","type":0,"url":"https://jx.quankan.app/?url="},
+        {"name":"pandown","type":1,"url":"http://pandown.pro/app/doubiekan.php?url="},
+        {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+        {"name":"yh0523","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
+        {"name":"wpsseo","type":0,"url":"http://api.wpsseo.cn/?v="},
+        {"name":"chmov","type":0,"url":"https://yun.ckmov.com/?url="},
+        {"name":"aidouer","type":0,"url":"https://jx.aidouer.net/?url="},
+        {"name":"h8jx","type":0,"url":"https://www.h8jx.com/jiexi.php?url="},
+        {"name":"bljiex","type":0,"url":"https://vip.bljiex.com/?v="}
         
     ],
     "flags": [

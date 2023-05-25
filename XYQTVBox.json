@@ -7,7 +7,7 @@
           "name": "直播",
           "type": 0,
           "playerType": 1,
-          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+          "url": "https://agit.ai/cx/l/raw/branch/master/l.txt",
          
           "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
               

@@ -31,11 +31,11 @@
     
     [
 
-        {"key":"豆瓣","name":"🖖豆瓣┃Drpy-JS┃热播🖖","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+        {"key":"豆瓣","name":"🖖┃豆瓣JS┃热播🖖","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
         
         {"key":"py_douban","name":"🍊┃豆瓣py┃备用🍊","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"./py/douban.py"},
 
-        {"key":"T4荐片","name":"T4荐片","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+        {"key":"T4荐片","name":"🍒┃豆瓣T4┃🍒","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token={{ali_token}}&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
         {"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
         {"key":"优酷","name":"👑优酷(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/youku.js"},

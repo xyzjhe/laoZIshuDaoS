@@ -1,9 +1,9 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
 
-    //"spider":"./custom_spider原画在前0611.jar;md5;a0a4cb742a4854e24c525b4ccc5f3027",
+    "spider":"./custom_spider原画在前0611.jar;md5;b961aaed4d522956fb0a1855405c31b1",
 
-    "spider":"./custom_spider转码在前0611.jar;md5;0746518d9db42c9d40485679feb0a6c5",
+    //"spider":"./custom_spider转码在前0611.jar;md5;2acf02f9f2d757694be305aae9468852",
     
     "lives":[
 {"name":"雷蒙影视直播","type":0,"url":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/tv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},

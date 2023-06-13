@@ -1,6 +1,9 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider":"./custom_spider原画在前0611.jar;md5;a0a4cb742a4854e24c525b4ccc5f3027",
+
+    //"spider":"./custom_spider原画在前0611.jar;md5;a0a4cb742a4854e24c525b4ccc5f3027",
+
+    "spider":"./custom_spider转码在前0611.jar;md5;0746518d9db42c9d40485679feb0a6c5",
     
     "lives": [
         {

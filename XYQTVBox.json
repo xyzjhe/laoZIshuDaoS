@@ -50,7 +50,7 @@
 
         {"key":"lf_js直播","name":"lf_js直播","type":3,"api":"./js/lf_live_min.js","ext":"./js/lf_live_min.txt"},
 
-        {"key": "drpy_js_直播转点播","name": "📺┃电视┃道长","type": 3,"api": "./js/可自定义图-直播转点播.js","searchable": 0,"quickSearch": 0,"ext": "./js/直播仓.json"},
+        {"key": "drpy_js_直播转点播","name": "📺┃电视┃道长","type": 3,"api": "./js/直播转点播2.js","searchable": 0,"quickSearch": 0,"ext": "./js/直播仓.json"},
 
         {"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
         {"key":"优酷","name":"👑优酷(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/youku.js"},

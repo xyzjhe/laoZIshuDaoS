@@ -50,6 +50,28 @@
 
         {"key":"lf_js直播","name":"lf_js直播","type":3,"api":"./js/lf_live_min.js","ext":"./js/lf_live_min.txt"},
 
+        {
+          "key": "MTV转点播",
+          "name": "🎶MTV/Js",
+          "type": 3,
+          "api": "./js/lf_live_min.js",
+          "ext": "https://agit.ai/lengniuge/mv/raw/branch/master/live_min.txt"
+        },
+        {
+          "key": "If_js_直播",
+          "name": "直播 | live",
+          "type": 3,
+          "api": "./js/lf_live_min_iptv.js"
+          "ext":"./js/lf_live_min.txt"
+        },
+        {
+          "key": "If_js_直播2",
+          "name": "直播2 | live",
+          "type": 3,
+          "api": "./js/lf_live_min_pure.js",
+          "ext": "./tv/dujia.m3u"
+        },
+
         {"key": "drpy_js_直播转点播","name": "📺┃电视┃道长","type": 3,"api": "./js/直播转点播2.js","searchable": 0,"quickSearch": 0,"ext": "./js/直播仓.json"},
 
         {"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aiqiyi.js"},

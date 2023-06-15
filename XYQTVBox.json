@@ -1,9 +1,9 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
 
-    "spider":"./custom_spider原画在前0613.jar;md5;9f7e10364a4d9ffbbdfef19f5c378848",
+    "spider":"./custom_spider原画在前0615.jar;md5;d5398ce0985f6c9fdc1817288da32c21",
 
-    //"spider":"./custom_spider转码在前0613.jar;md5;8ac18bef4fd5237e22de6d139fab6fa4",
+    //"spider":"./custom_spider转码在前0615.jar;md5;1bcbebb1d1fc39a755ce2a62f5510d82",
     
     "lives":[
 {"name":"影视直播","type":0,"url":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/tv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -233,19 +233,16 @@
     
 
     "parses": [
-        //{"name":"解析聚合","type":3,"url":"Demo"},
         //{"name":"Json并发","type":2,"url":"Parallel"},
         //{"name":"Json轮询","type":2,"url":"Sequence"},
+        {"name":"Web聚合","type":3,"url":"Web"},
         {"name":"-香-","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-        {"name":"-雅-","type":0,"url":"https://jx.xmflv.com/?url="},
-        {"name":"-情-","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-        {"name":"-免-","type":0,"url":"http://okjx.cc/?url=","parse":"1","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-        {"name":"-费-","type":0,"url":"https://jx.yparse.com/index.php?url="},
+        {"name":"-雅-","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+        {"name":"-情-","type":0,"url":"https://jx.yparse.com/index.php?url="},
         {"name":"-分-","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-        {"name":"-享-","type":0,"url":"https://jx.aidouer.net/?url="},
+        {"name":"-享-","type":0,"url":"https://jx.xyflv.com/?url="},
         {"name":"-🌷-","type":0,"url":"https://jx.quankan.app/?url="}
-        
-    ],
+       ],
 
 
     "flags": [

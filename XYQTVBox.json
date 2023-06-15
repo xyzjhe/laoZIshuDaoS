@@ -61,7 +61,7 @@
           "key": "If_js_直播",
           "name": "直播 | live",
           "type": 3,
-          "api": "./js/lf_live_min_iptv.js"
+          "api": "./js/lf_live_min_iptv.js",
           "ext":"./js/lf_live_min.txt"
         },
         {

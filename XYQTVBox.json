@@ -86,7 +86,7 @@
 
         {
       "key": "drpy_js_360影视",
-      "name": "360影视",
+      "name": "360影视（备）",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -96,7 +96,7 @@
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "腾讯",
+      "name": "腾讯视频（备）",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -106,7 +106,7 @@
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "爱奇艺",
+      "name": "爱奇艺（备）",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -116,7 +116,7 @@
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "芒果",
+      "name": "芒果（备）",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -126,7 +126,7 @@
     },
     {
       "key": "drpy_js_优酷",
-      "name": "优酷",
+      "name": "优酷（备）",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -134,7 +134,26 @@
       "filterable": 0,
       "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/优酷.js"
     },
-             
+    {
+      "key": "drpy_js_搜狐",
+      "name": "搜狐（备）",
+      "type": 3,
+      "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/菜狗.js"
+    }, 
+    {
+      "key": "drpy_js_网易",
+      "name": "网易公版影像",
+      "type": 3,
+      "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/网易公版影像.js"
+    },    
                
         {"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
         {"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},

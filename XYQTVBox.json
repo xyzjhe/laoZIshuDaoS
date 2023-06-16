@@ -73,14 +73,14 @@
         },
 
         {"key": "drpy_js_直播转点播","name": "📺┃电视┃道长","type": 3,"api": "./js/直播转点播2.js","searchable": 0,"quickSearch": 0,"ext": "./js/直播仓.json"},
-
+        {"key":"py_cctv","name": "🔥CCTV","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv.py"},
         {"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
         {"key":"优酷","name":"👑优酷(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/youku.js"},
         {"key":"腾讯","name":"🐧腾讯(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
         {"key":"芒果","name":"🥭芒果(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mangguo.js"},
         {"key":"搜狗","name":"🐼搜狗(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/caigou.js"},
         {"key":"360影视","name":"💘360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-        {"key":"py_cctv","name": "🔥CCTV","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv.py"},
+        
         {"key":"py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_xigua","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/py_xigua.py"},   
 
 

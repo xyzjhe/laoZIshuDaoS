@@ -1,9 +1,9 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
 
-    "spider":"./custom_spider原画在前0615.jar;md5;d5398ce0985f6c9fdc1817288da32c21",
+    "spider":"./custom_spider原画在前0616.jar;md5;52b907f32df4417ffff56ee430f53289",
 
-    //"spider":"./custom_spider转码在前0615.jar;md5;1bcbebb1d1fc39a755ce2a62f5510d82",
+    //"spider":"./custom_spider转码在前0616.jar;md5;31c1a0e7623d6fbcb53928ff2183a522",
     
     "lives":[
 {"name":"影视直播","type":0,"url":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/tv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -96,7 +96,7 @@
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "腾讯视频（备）",
+      "name": "腾讯（备）",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,

@@ -75,7 +75,10 @@
         },
 
         {"key": "drpy_js_直播转点播","name": "📺┃电视┃道长","type": 3,"api": "./js/直播转点播2.js","searchable": 0,"quickSearch": 0,"ext": "./js/直播仓.json"},
+        
+        {"key":"py_cctv","name": "🔥CCTV","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_new.py"},
         {"key":"py_cctv","name": "🔥CCTV","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv.py"},
+
         {"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
         {"key":"优酷","name":"👑优酷(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/youku.js"},
         {"key":"腾讯","name":"🐧腾讯(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},

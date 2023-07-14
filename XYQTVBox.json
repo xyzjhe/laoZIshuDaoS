@@ -20,30 +20,32 @@
         {"key":"py_cctv","name": "🔥CCTV","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_new.py"},
 
         
-        {
+      {
       "key": "aikanbot",
       "name": "❤️影视爱看机器人",
       "type": 3,
       "api": "https://qu.ax/eTKm.js",
       "searchable": 1,
       "quickSearch": 1
-    },
-        {
-  "key":"肥猫电视直播",
-  "name":"肥猫电视直播",
-  "type":3,
-  "api":"http://我不是.肥猫.love:63/JS/直播转点播2.js",
-  "ext":"http://我不是.肥猫.love:63/lives/直播仓.json"
-  },
+      },
+        
+      {
+      "key":"肥猫电视直播",
+      "name":"肥猫电视直播",
+      "type":3,
+     "api":"http://我不是.肥猫.love:63/JS/直播转点播2.js",
+     "ext":"http://我不是.肥猫.love:63/lives/直播仓.json"
+      },
 
-         { "key":"冷牛哥电视直播",
+      { 
+      "key":"冷牛哥电视直播",
       "name":"冷牛哥电视直播",
       "type":3,
       "api":"https://agit.ai/lengniuge/js/raw/branch/master/Live.js",
       "ext":"https://agit.ai/lengniuge/api/raw/branch/master/tv.json"
-    },
-        
-       {
+      },
+      
+      {
       "key": "MV_vod",
       "name": "┃MV┃视频",
       "type": 1,
@@ -51,22 +53,23 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+      },
      
-    {
+      {
       "key":"MTV转点播",
       "name": "| MTV点播[js]",
       "type":3,
       "api":"https://agit.ai/lengniuge/js/raw/branch/master/Live.js",
       "ext":"https://agit.ai/lengniuge/mv/raw/branch/master/mv.json"
-    },
-    {
-            "key": "MTV转点播2",
-            "name": "| MTV点播备[js]",
-            "type": 3,
-            "api": "https://agit.ai/lamdow8/ai/raw/branch/cc/lf_live_min.js",
-            "ext": "https://agit.ai/lamdow8/ai/raw/branch/cc/lf_live_min.txt"
-        },
+      },
+        
+      {
+      "key": "MTV转点播2",
+      "name": "| MTV点播备[js]",
+      "type": 3,
+      "api": "https://agit.ai/lamdow8/ai/raw/branch/cc/lf_live_min.js",
+      "ext": "https://agit.ai/lamdow8/ai/raw/branch/cc/lf_live_min.txt"
+       },
         
    
 

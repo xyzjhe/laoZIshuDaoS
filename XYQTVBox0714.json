@@ -32,9 +32,9 @@
 
 
 
-        {"key":"豆瓣","name":"🖖┃豆瓣JS┃热播🖖","type":3,"api":"./lib/douban2.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+        {"key":"豆瓣","name":"🖖┃豆瓣JS┃热播z🖖","type":3,"api":"./lib/douban2.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
         
-        {"key": "js荐片","name": "🍥┃豆瓣JS┃荐片🍥","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/jianpian.js"},
+        {"key": "js荐片","name": "🍥┃豆瓣JS┃荐片z🍥","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/jianpian.js"},
 
         {"key":"py_cctv","name": "🔥CCTV","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_new.py"},
                                               

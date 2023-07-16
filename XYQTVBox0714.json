@@ -28,9 +28,9 @@
     "sites": [
 
 
-        {"key": "豆瓣JS","name": "豆瓣JS","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/drpy.js"},
-        {"key":"荐片","name":"荐片JS","type":3,"playerType":"1","api":"./libs/drpy2.min.js","ext":"./js/%E8%8D%90%E7%89%87.js"},
-        {"key":"ikanbot","name":"ikanbot","type": 3,"api": "./libs/drpy2.min.js","changeable": 1,"searchable": 0,"ext": "./js/ikanbot2.js"},
+        {"key": "豆瓣JS","name": "豆瓣JS","type": 3,"api": "./libs/0716.js","changeable": 1,"searchable": 0,"ext": "./js/drpy.js"},
+        {"key":"荐片","name":"荐片JS","type":3,"playerType":"1","api":"./libs/0716.js","ext":"./js/%E8%8D%90%E7%89%87.js"},
+        {"key":"ikanbot","name":"ikanbot","type": 3,"api": "./libs/0716.js","changeable": 1,"searchable": 0,"ext": "./js/ikanbot2.js"},
         {"key":"py_cctv","name": "🔥CCTV","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/py_cctv_new.py"},
 
         

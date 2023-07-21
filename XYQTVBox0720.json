@@ -58,7 +58,7 @@
        
       {
       "key": "drpy_js_腾云驾雾",
-      "name": "腾讯（备）",
+      "name": "腾讯JS",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -68,7 +68,7 @@
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "爱奇艺（备）",
+      "name": "爱奇艺JS",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -78,7 +78,7 @@
     },
     {
       "key": "drpy_js_优酷",
-      "name": "优酷（备）",
+      "name": "优酷JS",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -88,7 +88,7 @@
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "芒果（备）",
+      "name": "芒果JS",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -99,7 +99,7 @@
     
     {
       "key": "drpy_js_搜狐",
-      "name": "搜狐（备）",
+      "name": "搜狐JS",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -109,7 +109,7 @@
     }, 
      {
       "key": "drpy_js_网易",
-      "name": "网易公版影像",
+      "name": "网易公版影像JS",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,

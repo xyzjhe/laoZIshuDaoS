@@ -195,7 +195,7 @@
         {"key": "csp_XYQHiker_无插件直播","name": "🏀无插件直播✈️(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQHiker/无插件直播.json"},
         {"key": "csp_XYQBiu_88看球","name":"88看球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQBiu/88看球.json"},
         {"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
-        {"key":"DRJS_虎牙","name":"虎牙直播(JS)","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/虎牙直播.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+       
        
         {"key": "csp_XYQHiker_斗鱼直播","name": "🐠斗鱼直播(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQHiker/斗鱼直播.json"},
         
@@ -214,7 +214,7 @@
        
         {"key": "csp_XYQBiu_分享短视频","name": "分享短视频(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQBiu/分享短视频.json"},
         
-        //json采集接口type：1，xml采集接口type：0
+      
         {"key":"csp_appysv2_看剧吧","name":"看剧吧(普通)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"},
         {"key":"影图资源","name":"影图资源(官)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
         {"key":"Ikun资源","name":"Ikun资源(切片)","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1}
@@ -222,8 +222,7 @@
         
     ],
     "parses": [
-        //{"name":"Json并发","type":2,"url":"Parallel"},
-        //{"name":"Json轮询","type":2,"url":"Sequence"},
+       
         {"name":"Web聚合","type":3,"url":"Web"},
         {"name":"-虾米-","type":0,"url":"https://jx.xmflv.com/?url="},
         {"name":"-盘古-","type":0,"url":"https://www.pangujiexi.cc/jiexi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},

@@ -56,9 +56,9 @@
         {"key": "csp_XYQHiker_voflixHD","name":"voflixHD(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/voflix HD.json"},    
         
        
-       {
+      {
       "key": "drpy_js_腾云驾雾",
-      "name": "腾讯",
+      "name": "腾讯（备）",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -68,7 +68,7 @@
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "爱奇艺",
+      "name": "爱奇艺（备）",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -78,7 +78,7 @@
     },
     {
       "key": "drpy_js_优酷",
-      "name": "优酷",
+      "name": "优酷（备）",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -88,7 +88,7 @@
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "芒果",
+      "name": "芒果（备）",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,
@@ -99,7 +99,7 @@
     
     {
       "key": "drpy_js_搜狐",
-      "name": "搜狐",
+      "name": "搜狐（备）",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
       "searchable": 1,

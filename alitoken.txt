@@ -1,1 +1,1 @@
-请填写你的阿里token。
+http://127.0.0.1:9978/file/tvbox/token.txt

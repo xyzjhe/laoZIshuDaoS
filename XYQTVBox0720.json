@@ -223,7 +223,12 @@
     ],
     "parses": [
        
-        {"name":"Web聚合","type":3,"url":"Web"},
+        {"name":"QIQI","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+        {"name":"小新","type":0,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=3649782&key=akmyzCHIMOUVY13569&url="},
+        {"name":"MIAO","type":0,"url":"http://www.miaoys.cc/vip/?url="},
+        {"name":"刚老","type":0,"url":"http://json.g9.pub:66/?url="},
+        {"name":"JXJS","type":0,"url":"https://jxjson.cf/?url="},
+        {"name":"BOJX","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","header":{"User-Agent":"okhttp/4.1.0"}},
         {"name":"-虾米-","type":0,"url":"https://jx.xmflv.com/?url="},
         {"name":"-盘古-","type":0,"url":"https://www.pangujiexi.cc/jiexi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
         {"name":"-BBKDJ-","type":0,"url":"https://jx.yparse.com/index.php?url="},

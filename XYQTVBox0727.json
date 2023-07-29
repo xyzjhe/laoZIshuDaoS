@@ -311,14 +311,9 @@
         
     ],
     
-    /*-----------------------解析-----------------------*/
+   
 "parses":[
-{"name":"自动解析","type":3,"url":"Demo"},
-{"name":"Web解析聚合","type":3,"url":"Web"},
-{"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"Json轮询","type":2,"url":"Sequence"},
 
-//----------------------//
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
 {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},

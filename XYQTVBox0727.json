@@ -1,14 +1,14 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     
-    "spider":"./jar/custom_spider转码在前0802.jar",
+    "spider":"./jar/custom_spider转码在前0802.jar";md5;f00a942d74a201167e6c15edafd510bf",
     
     "lives": [
         {
           "name": "直播",
           "type": 0,
           "playerType": 1,
-          "url": "https://agit.ai/laozou/mtv/raw/branch/master/iptv0728.txt",
+          "url": "https://agit.ai/laozou/mtv/raw/branch/master/cctv0801.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
        }
